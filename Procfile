@@ -1,1 +1,1 @@
-worker: python mailfiles.py
+worker: python mainfiles.py
